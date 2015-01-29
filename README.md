@@ -1,3 +1,6 @@
+# This repo is deprecated. Bourbon is available on Bower via the official maintainers, Thoughtbot.  
+
+
 # BOURBON for BOWER
 
 Install Bourbon by Thoughbot via Bower.
